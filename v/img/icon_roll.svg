@@ -1,0 +1,18 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48.5">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #2980ba;
+        stroke-miterlimit: 10;
+        stroke-width: 6px;
+      }
+    </style>
+  </defs>
+  <title>icon_roll</title>
+  <line class="cls-1" y1="45.5" x2="48" y2="45.5"/>
+  <rect class="cls-2" width="48" height="45.5"/>
+</svg>

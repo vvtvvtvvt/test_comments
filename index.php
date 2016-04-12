@@ -1,0 +1,1 @@
+<?php	include_once('config.php');	session_start();	$front = C_Front::Instance();	$front->route();	$front->printBody();?>
